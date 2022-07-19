@@ -1,5 +1,5 @@
 
-# Nintendo-Synchronization-System
+# Nintendo Synchronization System
 
 Project elaborated in the subject of Operating Systems of the Universidad Metropolitana in Caracas, Venezuela. This project simulates the Nintendo game console production line using threads, semaphores, and producer/consumer and writer/reader solutions in Java.
 ## Authors
